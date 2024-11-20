@@ -33,7 +33,7 @@ A estrutura do projeto é organizada da seguinte forma:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/FlavianoBezerra/Cinema-tickets/tree/master
+   git clone https://github.com/FlavianoBezerra/Cinema-tickets.git
 
 Abra o projeto no VS Code (ou qualquer editor de sua preferência).
 Se estiver usando o VS Code, abra o arquivo index.html da página inicial e clique com o botão direito para "Open with Live Server". Isso permitirá que você veja o projeto em tempo real no navegador.
