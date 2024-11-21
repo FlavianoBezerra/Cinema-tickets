@@ -128,3 +128,31 @@ body, html {
   .bg10{
     background-image: url(/assets/photos/the-batman-907355l.jpg);
   }
+
+  @media (width <= 1240px) {
+    body {
+      height: 100%;
+      width: 100%;
+    }
+  }
+  
+  @media (width <= 1000px) {
+    body {
+      height: 100%;
+      width: 100%;
+    }
+  }
+  
+  @media (width <= 840px) {
+    body {
+      height: 100%;
+      width: 100%;
+    }
+  }
+  
+  @media (width <= 440px) {  
+    body {
+      height: 100%;
+      width: 100%;
+    }
+  }
