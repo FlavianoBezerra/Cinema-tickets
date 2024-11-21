@@ -2,6 +2,8 @@
 
 Este projeto é uma simulação de compra de ingressos para o cinema. A aplicação permite que os usuários vejam informações. A página é estruturada com **HTML**, **CSS** e **JavaScript** (especialmente na seção de **pagamentos**).
 
+- [Acessar projeto online](https://cinema-tickets-eta.vercel.app/).
+
 ## Tecnologias Utilizadas
 
 - **HTML**: Para estrutura e conteúdo das páginas.
@@ -42,4 +44,6 @@ Funcionalidades
 
 ### Licença
 
-- Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Criado por [Flaviano Bezerra](https://www.linkedin.com/in/flaviano-bezerra-5203bb333).
