@@ -12,13 +12,14 @@
 
 header {
     height: 90px;
+    padding: 0 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
 nav {
-    width: 60%;
+    width: 20%;
 }
 
 ul {
